@@ -29,5 +29,5 @@ Fullstack-разработчик. Специализируюсь на React, Typ
 ## 📫 Связаться со мной
 
 - **Статус:** открыта к предложениям — Fullstack-разработчик (React / NestJS)
-- **Telegram:** [@BeetleBumBum]
-- **Email:** [roseinhat@gmail.com]
+- **Telegram:** @BeetleBumBum
+- **Email:** roseinhat@gmail.com
