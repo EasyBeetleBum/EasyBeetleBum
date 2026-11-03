@@ -20,11 +20,11 @@ Fullstack-разработчик. Специализируюсь на React, Typ
 
 ## 🚀 Избранные проекты
 
-- **[SkillSwap]([ссылка](https://github.com/EasyBeetleBum/SkillSwap_44_1))** — fullstack-платформа обмена навыками: React + NestJS + PostgreSQL, JWT-авторизация, WebSocket-уведомления, деплой в контейнерах, тесты.
-- **[API кинотеатра]([ссылка](https://github.com/EasyBeetleBum/film-react-nest))** — REST API с бронированием билетов: NestJS + TypeORM + PostgreSQL, проверка занятости мест, DTO, конфигурация через `ConfigModule`.
-- **[Web-ларёк]([ссылка]https://github.com/EasyBeetleBum/web-larek-frontend)** — интернет-магазин на TypeScript: ООП-архитектура, инверсия зависимостей, работа с API через композицию.
-- **[Блог о Швейцарии]([ссылка](https://github.com/EasyBeetleBum/blog-customizer))** — SPA на React: сайдбар с настройками, CSS-переменные, модульные стили.
-- **[Закрывающий тег]([ссылка](https://github.com/EasyBeetleBum/zakrivayuschiy-teg-f))** — адаптивный лендинг с анимациями: вариативные шрифты, CSS-фильтры, модальное окно на `<dialog>`, GitHub Pages.
+- **[SkillSwap](https://github.com/EasyBeetleBum/SkillSwap_44_1)** — fullstack-платформа обмена навыками: React + NestJS + PostgreSQL, JWT-авторизация, WebSocket-уведомления, деплой в контейнерах, тесты.
+- **[API кинотеатра](https://github.com/EasyBeetleBum/film-react-nest)** — REST API с бронированием билетов: NestJS + TypeORM + PostgreSQL, проверка занятости мест, DTO, конфигурация через `ConfigModule`.
+- **[Web-ларёк](https://github.com/EasyBeetleBum/web-larek-frontend)** — интернет-магазин на TypeScript: ООП-архитектура, инверсия зависимостей, работа с API через композицию.
+- **[Блог о Швейцарии](https://github.com/EasyBeetleBum/blog-customizer)** — SPA на React: сайдбар с настройками, CSS-переменные, модульные стили.
+- **[Закрывающий тег](https://github.com/EasyBeetleBum/zakrivayuschiy-teg-f)** — адаптивный лендинг с анимациями: вариативные шрифты, CSS-фильтры, модальное окно на `<dialog>`, GitHub Pages.
 
 ## 📫 Связаться со мной
 
